@@ -3,7 +3,7 @@
 	<head>
 	<meta charset = "UTF-8"/>
 	<link rel = "stylesheet" href = "style/Main_style.css"/>
-	<title>WebPageEPAM</title>
+	<title>EPAM DevOps</title>
 	<script src="scripts/Main_script.js"></script>
 	</head>
 	
