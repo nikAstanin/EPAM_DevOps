@@ -3,7 +3,7 @@
 	<head>
 	<meta charset = "UTF-8"/>
 	<link rel = "stylesheet" href = "style/Main_style.css"/>
-	<title>Web-page for DevOps</title>
+	<title>Web-page for DevOps 2019</title>
 	<script src="scripts/Main_script.js"></script>
 	</head>
 	
