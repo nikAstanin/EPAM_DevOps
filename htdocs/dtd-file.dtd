@@ -1,0 +1,17 @@
+<!ELEMENT farm (medicament+)>
+<!ELEMENT medicament (name, price, serial_number, country, expiration_year, type, active_substances, img, parList?)>
+<!ELEMENT name #PCDATA>
+<!ELEMENT price #PCDATA>
+<!ELEMENT serial_number #PCDATA>
+<!ELEMENT country #PCDATA>
+<!ELEMENT expiration_year #PCDATA>
+<!ELEMENT type #PCDATA>
+<!ELEMENT active_substances #PCDATA>
+<!ELEMENT img #PCDATA>
+<!ELEMENT parList (param+)>
+<!ELEMENT param (parName, parDescr)>
+<!ELEMENT parName #PCDATA>
+<!ELEMENT parDescr #PCDATA>
+
+<!ATTLIST medicament
+	id CDATA #REQUIRED>

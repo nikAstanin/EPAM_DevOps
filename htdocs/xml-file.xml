@@ -1,0 +1,266 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE farm SYSTEM "dtd-file.dtd">
+<farm>
+	<medicament id = "1">
+		<name>Анальгин </name>
+		<price>5,8 гривен </price>
+		<serial_number>ATX N02B В02</serial_number>
+		<country>Украина </country>
+		<expiration_year>5 лет </expiration_year>
+		<type>Таблетка </type>
+		<active_substances>метамизол натрия </active_substances>
+		<purpose>От болей в голове</purpose>
+		<img>http://unipharma.com.ua/sites/default/files/product/analgin.jpg </img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Аналгетики та антипіретики. Піразолони.</parDescr>
+			</param>
+			<param>
+				<parName>Упаковка</parName>
+				<parDescr>По 2 мл в ампулах. По 10 ампул у пачці з
+				перегородками; або по 5 ампул в однобічному 
+				блістері, по 2 блістери в пачці.</parDescr>
+			</param>
+		</parList>
+	</medicament>
+
+
+	<medicament id = "2">
+		<name>Цитрамон-Дарница</name>
+		<price>6 гривен </price>
+		<serial_number>АТХ N02B A51</serial_number>
+		<country>Украина </country>
+		<expiration_year>3 года</expiration_year>
+		<type>Таблетка </type>
+		<active_substances>ацетилсалициловая кислота, парацетамол, кофеин</active_substances>
+		<purpose>От болей в голове</purpose>
+		<img>https://i.obozrevatel.com/medicament/2017/12/13/tsitramon-darnitsa.jpg?size=300x200</img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Аналгетики та антипіретики. Кислота ацетилсаліцилова, комбінації без психолептиків.</parDescr>
+			</param>
+			<param>
+				<parName>Категорія відпуску</parName>
+				<parDescr>Без рецепта.</parDescr>
+			</param>
+			<param>
+				<parName>Умови зберігання</parName>
+				<parDescr>Зберігати в оригінальній упаковці
+				при температурі не вище 25 °С. Зберігати
+				у недоступному для дітей місці..</parDescr>
+			</param>
+		</parList>
+	</medicament>
+
+
+	<medicament id = "3">
+		<name>Парацетамол </name>
+		<price>6,2 гривен </price>
+		<serial_number>АТС N02В Е01</serial_number>
+		<country>Украина </country>
+		<expiration_year>3 года</expiration_year>
+		<type>Таблетка </type>
+		<active_substances>парацетамол Paracetamolum  </active_substances>
+		<purpose>Обезболивающее</purpose>
+		<img>https://irecommend.img.c3.r-99.com/sites/default/files/imagecache/300o/product-images/76880/13200228665412_big.jpg </img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Аналгетики та антипіретики. Парацетамол</parDescr>
+			</param>
+			<param>
+				<parName>Показання</parName>
+				<parDescr>Симптоматичне лікування захворювань,
+				що супроводжуються болем слабкої та помірної
+				інтенсивності та/або підвищенням температури тіла.</parDescr>
+			</param>
+			<param>
+				<parName>Упаковка</parName>
+				<parDescr>По 5 супозиторіїв у стрипах.
+				По 2 стрипи в пачці.</parDescr>
+			</param>
+		</parList>
+	</medicament>
+
+
+	<medicament id = "4">
+		<name>Гербион </name>
+		<price>84 гривны </price>
+		<serial_number>АТХ R05Х</serial_number>
+		<country>Словения </country>
+		<expiration_year>3 года</expiration_year>
+		<type>Сироп</type>
+		<purpose>Сироп от кашля</purpose>
+		<active_substances>екстракт рідкий листя подорожника ланцетоподібного, екстракт рідкий квіток мальви звичайної, аскорбінова кислота </active_substances>
+		<img>https://i0.tabletki.ua/_assets/img/abc/goods/9534/Gerbion-sirop-podorozhnika-sirop-9534.jpg</img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Засоби, що застосовуються при кашлі
+				та застудних захворюваннях.</parDescr>
+			</param>
+			<param>
+				<parName>Категорія відпуску</parName>
+				<parDescr>Без рецепта.</parDescr>
+			</param>
+			<param>
+				<parName>Передозування</parName>
+				<parDescr>Передозування може викликати
+				шлунково-кишкові розлади, блювання
+				чи діарею. Лікування симптоматичне.</parDescr>
+			</param>
+			<param>
+				<parName>Объем</parName>
+				<parDescr>150 мл сиропа</parDescr>
+			</param>
+		</parList>
+	</medicament>
+
+
+	<medicament id = "5">
+		<name>Проспан </name>
+		<price>137 гривен </price>
+		<serial_number>АТХ R05C A </serial_number>
+		<country>Германия </country>
+		<expiration_year>3 года </expiration_year>
+		<type>Сироп </type>
+		<active_substances>сухой екстракт листа плюща </active_substances>
+		<purpose>Сироп от кашля</purpose>
+		<img>https://i0.tabletki.ua/_assets/img/abc/goods/13536/Prospan-sirop-ot-kashlya-sirop-13536.jpg </img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Засоби, що застосовуються при кашлі
+				та застудних захворюваннях.</parDescr>
+			</param>
+		</parList>
+	</medicament>
+
+
+	<medicament id = "6">
+		<name>Долобене </name>
+		<price>82 гривны </price>
+		<serial_number>АТХ M02A X</serial_number>
+		<country>Германия </country>
+		<expiration_year>3 года </expiration_year>
+		<type>Мазь </type>
+		<active_substances>гепарин натрію, диметилсульфоксид, декспантенол </active_substances>
+		<purpose>Мазь от ушибов</purpose>
+		<img>https://i0.tabletki.ua/_assets/img/abc/goods/880/Dolobene-gel-880.jpg </img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Засоби для місцевого застосування
+				 при болю у суглобах та м’язах.</parDescr>
+			</param>
+			<param>
+				<parName>Діти</parName>
+				<parDescr>Препарат не призначати дітям
+				 через обмежений досвід застосування.</parDescr>
+			</param>
+			<param>
+				<parName>Умови зберігання</parName>
+				<parDescr>Зберігати при температурі
+				 не вище 25 ºС у недоступному для
+				дітей місці.</parDescr>
+			</param>
+		</parList>
+	</medicament>
+
+
+	<medicament id = "7">
+		<name>Бальзамический линимент </name>
+		<price>15 гривен </price>
+		<serial_number>АТХ D08A X </serial_number>
+		<country>Украина </country>
+		<expiration_year>5 лет </expiration_year>
+		<type>Мазь </type>
+		<active_substances>трибромфенолят, дёготь березовый </active_substances>
+		<purpose>Мазь противовоспалительная</purpose>
+		<img>https://i0.tabletki.ua/_assets/img/abc/goods/6138/Balzamicheskijj-liniment-po-vishnevskomu-6138.jpg </img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Антисептичні та дезинфікуючі засоби.</parDescr>
+			</param>
+			<param>
+				<parName>Протипоказання</parName>
+				<parDescr>Підвищена чутливість до фенолу та його похідних;
+				підвищена чутливість до будь-якого компонента препарату.</parDescr>
+			</param>
+		</parList>
+	</medicament>
+
+
+	<medicament id = "8">
+		<name>Настойка Боярышника </name>
+		<price>8 гривен </price>
+		<serial_number>АТХ С01Е В04</serial_number>
+		<country>Украина </country>
+		<expiration_year>4 года </expiration_year>
+		<type>Настойка </type>
+		<active_substances>настойка плодів глоду подрібнених</active_substances>
+		<purpose>По ситуации</purpose>
+		<img>https://i0.tabletki.ua/_assets/img/abc/goods/3042/Boyaryshnika-3042.jpg </img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Засоби, що застосовуються в кардіології.</parDescr>
+			</param>
+			<param>
+				<parName>Форма випуску</parName>
+				<parDescr>Настойка</parDescr>
+			</param>
+		</parList>
+	</medicament>
+
+
+	<medicament id = "9">
+		<name>Амброксол </name>
+		<price>10 гривен</price>
+		<serial_number>АТХ R05C B06</serial_number>
+		<country>Украина </country>
+		<expiration_year>5 лет </expiration_year>
+		<type>Таблетка </type>
+		<active_substances>амброксол гідрохлорид </active_substances>
+		<purpose>Таблетки от кашля</purpose>
+		<img>https://i0.tabletki.ua/_assets/img/abc/goods/9395/Ambroksol-9395.jpg </img>
+	</medicament>
+
+
+	<medicament id = "10">
+		<name>Уголь активированный </name>
+		<price>2,9 гривен </price>
+		<serial_number>АТХ A07В А01 </serial_number>
+		<country>Украина </country>
+		<expiration_year>3 года </expiration_year>
+		<type>Таблетка </type>
+		<active_substances>уголь активированный </active_substances>
+		<purpose>При отравлениях</purpose>
+		<img>https://i0.tabletki.ua/_assets/img/abc/goods/4079/Ugol-aktivirovannyjj-4079.jpg </img>
+
+		<parList>
+			<param>
+				<parName>Фармакотерапевтичская группа</parName>
+				<parDescr>Ентеросорбенти. Лікарські засоби, що містять
+				 активоване вугілля. Вугілля медичне активоване.</parDescr>
+			</param>
+			<param>
+				<parName>Протипоказання</parName>
+				<parDescr>Підвищена чутливість до компонентів лікарського засобу;
+				виразки шлунково-кишкового тракту;
+				шлункові кровотечі.</parDescr>
+			</param>
+		</parList>
+	</medicament>
+</farm>
